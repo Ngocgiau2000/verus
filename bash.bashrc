@@ -104,6 +104,21 @@ clear
 cd
 
 sshd
+
+echo "🤖Em nhận làm mấy đào coin sll🤖
+🔭Auto ADB🔭
+🔭Auto bật nguồn 🔭
+🔭Auto dao tất cả loại coin🔭
+🔭 Tất cả phần mềm app code 🔭
+🔭Auto xem Youtube app record 🔭
+🔭Auto đi tương tác Facebook 🔭
+🔭Auto tương tác tiktok xem video 🔭
+🔭 Chatgpt 50k free không giới hạn 🔭
+🔭 tất cả vấn đề về Android làm phần mềm 🔭
+👩‍🔧LH trực tiếp Zalo hoặc Đt:0899717143👩‍🔧
+👂 support =✓ Diện code bs64";
+
+sleep 2
 echo "Oooooooooooooolcc:;;,,'''''''......'''''',,,;;:cclloooooooooooo0
 o                                                              x
 l                          ...........                         d
