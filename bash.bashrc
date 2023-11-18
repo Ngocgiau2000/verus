@@ -1,12 +1,4 @@
-clear 
-
-sshd
-
 cd
-cd cloud
-jp2a mod10.jpg
-sleep 1
-clear
 
 for i in $(seq 7)
 do
